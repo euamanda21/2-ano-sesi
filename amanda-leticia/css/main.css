@@ -1,0 +1,21 @@
+#titulo-pagina{
+    color:lightseagreen
+}
+body{
+    /*background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Ffoto%2Frosa-vermelha-em-fogo-gm521426582-91342657&psig=AOvVaw3T4wpFHat_8j7noAtSWJzm&ust=1683893287692000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCIjL8syd7f4CFQAAAAAdAAAAABAH)
+    background-repeat:no-repeat;
+    background-size:cover;
+    */
+}
+#titulo{
+    color:azure;
+    border-radius: 3em;
+    padding-top:1px;
+}
+.titulo-pagina{
+    color: aquamarine
+}
+
+h1{
+    color : red
+}
